@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SGSPodSpecs_Example' do
+  pod 'SGSPodSpecs', :path => '../'
+
+  target 'SGSPodSpecs_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

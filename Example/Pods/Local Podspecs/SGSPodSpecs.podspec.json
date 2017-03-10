@@ -1,0 +1,22 @@
+{
+  "name": "SGSPodSpecs",
+  "version": "0.1.0",
+  "summary": "A short description of SGSPodSpecs.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CharlsPrince/SGSPodSpecs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CharlsPrince": "961629701@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/CharlsPrince/SGSPodSpecs.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SGSPodSpecs/Classes/**/*"
+}

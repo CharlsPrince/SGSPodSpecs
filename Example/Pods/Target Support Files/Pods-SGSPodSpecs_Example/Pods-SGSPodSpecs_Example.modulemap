@@ -1,0 +1,6 @@
+framework module Pods_SGSPodSpecs_Example {
+  umbrella header "Pods-SGSPodSpecs_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
